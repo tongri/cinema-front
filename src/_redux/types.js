@@ -1,0 +1,5 @@
+
+// SHOWS
+export const SHOWS_SUCCESS = 'SHOWS_SUCCESS'
+export const SHOWS_LOADING = 'SHOWS_LOADING'
+export const SHOWS_FAILED = 'SHOWS_FAILED'
